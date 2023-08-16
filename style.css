@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    display: block;
+}
+
+.grand{
+    
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 0 auto;
+    background-color: black;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.haut{
+    width: 40px;
+    height: 80px;
+    background-color: #f23e40;
+    margin-bottom: 35px;
+    margin-right: 11px;
+    transform: rotate(-30deg);       
+}
+
+.milieu{
+    width: 40px;
+    height: 110px;
+    background-color: #f23e40;
+    margin-bottom: 75px;
+    margin-right: 11px;
+    transform: rotate(-30deg);       
+}
+
+.bas{
+    width: 40px;
+    height: 150px;
+    background-color: #f23e40;
+    margin-bottom: 113px;
+    margin-right: 11px;
+    transform: rotate(-30deg);       
+}
+
+.adidas{
+    font-size: 4.8rem;
+    color: #f23e40;
+    position: absolute;
+    background-color: black;
+    font-weight:700;
+    left: 40px;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
